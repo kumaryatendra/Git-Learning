@@ -1,0 +1,1 @@
+This file contain the utility functions which will use by the index file.
